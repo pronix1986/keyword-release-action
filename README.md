@@ -26,3 +26,6 @@ jobs:
       with:
         args: 'FIXED'
 ```
+
+Changelog:
+Rename main branch to master
